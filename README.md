@@ -7,6 +7,13 @@ C++17
 
 ### Finish Date
 #### Sepember (9월)
+| MON | TUE | WED | &nbsp;THU&nbsp; | &nbsp; FRI &nbsp; |
+| :---: | :---: | :---: | :---: | :---: |
+|  | &emsp;&emsp;&ensp; | &emsp;&emsp;&ensp; | 1 | **2** |
+| **5** | **6** | 7 | 8 | 9 |
+| 12 | 13 | 14 | 15 | 16 |
+| 19 | 20 | 21 | 22 | 23 |
+| 26 | 27 | 28 | 29 | 30 |
 
-<span style="background-color: #dcffe4">02</span>
-a
+Done : **bold** <br>
+No-Progress : normal
