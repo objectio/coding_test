@@ -1,5 +1,4 @@
 # Road to Ace My Coding Test
-<br>
 
 ### Language Usage
 C++17
